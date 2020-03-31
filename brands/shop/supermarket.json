@@ -626,6 +626,17 @@
       "shop": "supermarket"
     }
   },
+    "shop/supermarket|Carrefour Bio": {
+    "countryCodes": ["fr"],
+    "tags": {
+      "brand": "Carrefour Bio",
+      "brand:wikidata": "Q55221138",
+      "brand:wikipedia": "fr:Carrefour Bio",
+      "name": "Carrefour Bio",
+      "shop": "supermarket",
+      "organic": "only"
+    }
+  },
   "shop/supermarket|Carrefour City": {
     "countryCodes": ["be", "fr"],
     "matchTags": ["shop/convenience"],
